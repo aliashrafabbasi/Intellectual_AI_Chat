@@ -67,10 +67,7 @@ POST /api/v1/chat?session_id=abc123&message=Hello
 
 🧑‍💻 Author
 
-Ali Ashraf Abbasi
-
-
-👉 Is README ko paste karo, commit & push later.
+Ali Ashraf 
 
 ---
 
